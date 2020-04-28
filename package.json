@@ -1,0 +1,28 @@
+{
+  "name": "noroff-automation-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Masolg/noroff-automation-app.git"
+  },
+  "author": "Mathilde Solheim Grøtta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Masolg/noroff-automation-app/issues"
+  },
+  "homepage": "https://github.com/Masolg/noroff-automation-app#readme",
+  "dependencies": {
+    "gulp-csso": "^4.0.1",
+    "gulp-sass": "^4.1.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0"
+  }
+}
